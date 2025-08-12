@@ -1,8 +1,9 @@
-## Bonjour 👋
-Je suis Tifanioh 
+# Hello👋,
+I'm Tifanioh
 
-🎓 Je suis un etudiant à la faculté des sciences à l'université d'Antananarivo. Precisement je suis dans la mention mathematique et informatique.
+## About me :
+🎓 I am a student at Faculty of Sciences at the University of Antananarivo. More precisely I am in the mention mathematics and computer science.
 
-💡 Je suis passionné par la probbabilité, l'algebre, la statistique, la geometrie en bref tous ce qui est mathematique. Je suis aussi interessé par l'intelligenge artifficiel, la machine learning et la science des données.
+💡 I'm fascined by mathematics (statistics, probability, geometrie, algebra, etc...). I'm also interessed to artificial intelligence, machine learning , data scientist.
 
-📝 La vie n'est qu'une longue serie d'apprentissage.
+📝 Life is just a long series of learning. To get what you want, you need more effort every day.
