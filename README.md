@@ -3,7 +3,7 @@ I'm Tifanioh
 
 ## 🎯 À propos de moi
 
-> "Pour moi l'informatique n'est qu'un outils pour r茅soudre des problèmes mathématiques appliquée à la vie quotidienne et professionnel."
+> "Pour moi l'informatique n'est qu'un outils pour résoudre des problèmes mathématiques appliquée à la vie quotidienne et professionnel."
 
 
 > "La vie n'est qu'une longue serie d'apprentissage"
@@ -21,7 +21,7 @@ I'm Tifanioh
 
 <div align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=python,c,cpp,latex,R" />
+		<img src="https://skillicons.dev/icons?i=python,c,cpp,latex,r" />
     <br/>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,sklearn,numpy" />
     <br/>
