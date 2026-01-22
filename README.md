@@ -9,8 +9,8 @@ I'm Tifanioh
 > "La vie n'est qu'une longue serie d'apprentissage"
 
 - 🎓 **Filière** : Mathématique et informatique (Université d'Antananarivo)
-- 🧠 **Passion** : Logique math茅matique, science des donn茅es, analyse des donn茅es et l'intelligence artificielle
-- 🌱 **Apprentissage** : base de donn茅e et apprentissage automatique
+- 🧠 **Passion** : Logique mathématique, science des données, analyse des données et l'intelligence artificielle
+- 🌱 **Apprentissage** : base de donnée et apprentissage automatique
 
 
 ---
@@ -23,11 +23,11 @@ I'm Tifanioh
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=python,c,cpp,latex,R" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,sklearn,numpy" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,sklearn,numpy" />
     <br/>
-	<img src="https://skillicons.dev/icons?i=github,git,linux,debian" />
+	<img src="https://skillicons.dev/icons?i=github,git,linux" />
 	<br/>
-	<img src="https://skillicons.dev/icons?i=vscode" />
+	<img src="https://skillicons.dev/icons?i=vscode,jupyter" />
 	</a>
 </div>
 
@@ -39,6 +39,6 @@ I'm Tifanioh
 
 ### 📩 Connecter avec moi
 
-[![Email](https://img.shields.io/badge/鉁夛笍-Email-00FF00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randrianoelinatifanioh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/馃敆-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tifanioh-mahefa-fandresentsoa-randrianoelina-205747361)
-[![Facebook](https://img.shields.io/badge/馃摌-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tifanioh.mahefa.fandresentsoa/)
+[![Email](https://img.shields.io/badge/✉️-Email-00FF00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randrianoelinatifanioh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tifanioh-mahefa-fandresentsoa-randrianoelina-205747361)
+[![Facebook](https://img.shields.io/badge/📘-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tifanioh.mahefa.fandresentsoa/)
