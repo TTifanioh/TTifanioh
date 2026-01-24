@@ -1,12 +1,12 @@
-# Hello👋,
-I'm Tifanioh
+# Bonjour 👋,
+Je suis Tifanioh
 
 ## 🎯 À propos de moi
 
-> "Pour moi l'informatique n'est qu'un outils pour résoudre des problèmes mathématiques appliquée à la vie quotidienne et professionnel."
+> **"Pour moi l'informatique n'est qu'un outils pour résoudre des problèmes mathématiques appliquée à la vie quotidienne et professionnel."**
 
 
-> "La vie n'est qu'une longue serie d'apprentissage"
+> **"La vie n'est qu'une longue serie d'apprentissage"**
 
 - 🎓 **Filière** : Mathématique et informatique (Université d'Antananarivo)
 - 🧠 **Passion** : Logique mathématique, science des données, analyse des données et l'intelligence artificielle
@@ -23,7 +23,7 @@ I'm Tifanioh
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=python,c,cpp,latex,r" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,sklearn,numpy" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,pandas,matplotlib,numpy" />
     <br/>
 	<img src="https://skillicons.dev/icons?i=github,git,linux" />
 	<br/>
@@ -35,7 +35,7 @@ I'm Tifanioh
 
 ---
 
-## 🤝 Collaboration et connection
+## 🤝 Collaboration et connection
 
 ### 📩 Connecter avec moi
 
