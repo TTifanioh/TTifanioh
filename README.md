@@ -23,7 +23,7 @@ Je suis Tifanioh
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=python,c,cpp,latex,r" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,pandas,matplotlib,numpy" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,sklearn" />
     <br/>
 	<img src="https://skillicons.dev/icons?i=github,git,linux" />
 	<br/>
