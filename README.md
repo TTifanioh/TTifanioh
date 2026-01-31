@@ -1,33 +1,32 @@
-# Bonjour 👋,
-Je suis Tifanioh
+# Hello 👋, I'm Tifanioh
+---
+## 🎯 About
 
-## 🎯 À propos de moi
-
-> **"Pour moi l'informatique n'est qu'un outils pour résoudre des problèmes mathématiques appliquée à la vie quotidienne et professionnel."**
+> **"For me computer science is only a tool to solve mathematical problems applied to daily and professional life."**
 
 
-> **"La vie n'est qu'une longue serie d'apprentissage"**
+> **"Life is just a long learning series."**
 
-- 🎓 **Filière** : Mathématique et informatique (Université d'Antananarivo)
-- 🧠 **Passion** : Logique mathématique, science des données, analyse des données et l'intelligence artificielle
-- 🌱 **Apprentissage** : base de donnée et apprentissage automatique
 
+- 🎓 **Mention** : Mathematics and computer science (University of Antananarivo).
+- 🧠 **Passionate** : Mathematics logic, data scientist, data analyste and IA.
+- 🌱 **Learning** : algebra, statistics, probability, numerical calcul, data base, machine learning.
 
 ---
 
-## 🛠️ Technologie et outils
+## 🛠️ Tools and technology
 
-<h2 align="center"> 🚀 Technique arsenal 🚀</h2>
+<h2 align="center"> 🚀 Arsenal technique 🚀</h2>
 
 <div align="center">
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=python,c,cpp,latex,r" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,sklearn" />
+    <img src="https://skillicons.dev/icons?i=html,css,sklearn,numpy,matplotlib,pandas" />
     <br/>
 	<img src="https://skillicons.dev/icons?i=github,git,linux" />
 	<br/>
-	<img src="https://skillicons.dev/icons?i=vscode,jupyter" />
+	<img src="https://skillicons.dev/icons?i=vscode" />
 	</a>
 </div>
 
@@ -35,10 +34,22 @@ Je suis Tifanioh
 
 ---
 
-## 🤝 Collaboration et connection
+## 🤝 Connect and collaboration 
 
-### 📩 Connecter avec moi
+### 📩 Connect me
 
 [![Email](https://img.shields.io/badge/✉️-Email-00FF00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randrianoelinatifanioh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tifanioh-mahefa-fandresentsoa-randrianoelina-205747361)
 [![Facebook](https://img.shields.io/badge/📘-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tifanioh.mahefa.fandresentsoa/)
+
+---
+
+### 💡Quote inspiration 
+
+> **"Man evolves through learning."**
+
+
+> **"To achieve your goal, you need more effort and rigor"**
+
+
+> **"The success is not definitive, the failure is not fatal. It's the courage to continue that counts."**     Winston Churchill 
